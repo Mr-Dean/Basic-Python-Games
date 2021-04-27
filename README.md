@@ -1,6 +1,6 @@
 # Basic-Python-Games
 
-I made these little games to learn basic syntac and control flow in Python.
+I made these little games to learn basic syntax and control flow in Python.
 
 ## How To Run Games
 
